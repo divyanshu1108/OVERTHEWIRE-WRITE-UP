@@ -2,6 +2,7 @@ USE THIS TO LOGIN IN BANDIT IN TERMINAL
 AND USE THE PASS YOU GET FROM COMPLETING LEVEL 0
 
 ssh bandit1@bandit.labs.overthewire.org -p 2220
+USE ls -la
 
 THERE IS FILE KNOW AS - 
 USE cat ./- 
