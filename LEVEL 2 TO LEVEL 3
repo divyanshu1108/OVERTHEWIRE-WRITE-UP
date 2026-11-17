@@ -1,0 +1,15 @@
+like you see what i explainned in level 1 to level 2 
+
+is came in use 
+
+login
+ssh bandit2@bandit.labs.overthewire.org -p 2220
+
+USE ls -la
+a file name --space in this filename--
+
+focus on the dash (--)
+when ever you these type of dash or dashes in filename use ./
+
+so you have to write cat "--space in this filename--"
+and get you next pass
