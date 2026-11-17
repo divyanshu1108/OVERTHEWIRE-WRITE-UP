@@ -1,0 +1,15 @@
+login 
+ssh bandit3@bandit.labs.overthewire.org -p 2220
+in this when you use 
+ls -la 
+
+you will get a directory 
+directory means it is a file and another file is must inside it 
+
+so use   cd (name of file)  
+
+TO  GO INSIDE THE FILE
+
+THEN USE cat (filename) 
+
+AND YOU WILL GET THE PASS
