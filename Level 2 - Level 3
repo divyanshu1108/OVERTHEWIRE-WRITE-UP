@@ -4,6 +4,8 @@ is came in use
 
 login
 ssh bandit2@bandit.labs.overthewire.org -p 2220
+
+USE ls -la
 a file name --space in this filename--
 
 focus on the dash (--)
