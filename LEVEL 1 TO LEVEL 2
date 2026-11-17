@@ -1,0 +1,12 @@
+USE THIS TO LOGIN IN BANDIT IN TERMINAL 
+AND USE THE PASS YOU GET FROM COMPLETING LEVEL 0
+
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+
+THERE IS FILE KNOW AS - 
+USE cat ./- 
+To get the pass 
+
+./ is used to direct the location and sneek what is there 
+
+Tip when any word start from -  or --use ./ this 
